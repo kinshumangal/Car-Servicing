@@ -90,13 +90,14 @@ public class Car {
 	public void setInsuranceNum(long insuranceNum) {
 		this.insuranceNum = insuranceNum;
 	}
+	
+	
 	public void setChassisNum(long chassisNum) {
 		this.chassisNum = chassisNum;
 	}
 	public void setEngineNum(long engineNum) {
 		this.engineNum = engineNum;
 	}
-	
 	public void setInsPremAmntPaid(double insPremAmntPaid) {
 		this.insPremAmntPaid = insPremAmntPaid;
 	}
